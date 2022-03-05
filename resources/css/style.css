@@ -30,3 +30,7 @@ p {
     color: gray;
     text-align: right;
 }
+
+img {
+    display: block;
+}
