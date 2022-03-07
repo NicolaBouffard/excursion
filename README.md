@@ -2,5 +2,5 @@
 
 ### Project Objective
 
-To further gain skill using **HTML**, **css**, **Command line**, **Git** and **GitHub**.
+- To further gain skill using **HTML**, **CSS**, **Command line**, **Git** and **GitHub**.
 
