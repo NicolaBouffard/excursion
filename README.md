@@ -22,7 +22,7 @@
 
 - Videos & images would not load on GitHub Pages but would work locally. I promtly realised that i hadd to add/commit/push the new files within my images/videos directories.
 - I tried to add style.css from the directory I was currently in and came accross an error message 
- **fatal: pathspec 'style.css' did not match any files**
+ **fatal: pathspec 'style.css' did not match any files**.
 I changed to the correct directory and tried again. Later after I finished the project, I learnt I could add from a diffent directory if I specify the correct path.
 - I forgot how to correctly start a HTML document. I went through my old notes and quickly discovered the correct layout. 
 - I had a few typos that I corrected.
