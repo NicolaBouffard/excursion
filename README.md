@@ -1,10 +1,10 @@
-# Project Excursion 
+# <u>Project Excursion 
 
-### Project Objective
+### <u>Project Objective
 
 - To further gain skill using **HTML**, **CSS**, **Command line**, **Git** and **GitHub**.
 
-### Project Tasks
+### <u>Project Tasks
 
 - Create new directories from the command 
 - Create a new repository in github and link it to local directory
@@ -18,7 +18,7 @@
 <img src="./resources/images/excursion_css.png" width=500 height=600>
     - Add/commit/push as often as necessary
 
-### Problems I faced and how I resolved them
+### <u>Problems I faced and how I resolved them
 
 - Videos & images would not load on GitHub Pages but would work locally. I promtly realised that i hadd to add/commit/push the new files within my images/videos directories.
 - I tried to add style.css from the directory I was currently in and came accross an error message 
